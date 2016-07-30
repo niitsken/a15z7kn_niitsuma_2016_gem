@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "a15z7kn_niitsuma_2016_gem"
   spec.version       = A15z7knNiitsuma2016Gem::VERSION
   spec.authors       = ["niitsken"]
-  spec.email         = ["e1614hn@aitt.ac.jp"]
+  spec.email         = ["e1614hn@aitt.ac.jp", "hoge@gmail.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
