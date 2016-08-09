@@ -4,6 +4,7 @@ require "a15z7kn_niitsuma_2016_gem/version"
 module A15z7knNiitsuma2016Gem
   class Main
 
+
     # 整数を入力として受け取り，値が奇数ならば真を返す
     def odd? n
       n % 2 == 1
